@@ -10,7 +10,8 @@ EasyContainer is a Command-Line-Tool (ec) and also a Webpanel for easy Managemen
   
 ##Quickstart
 ```bash
- wget https://github.com/ingobaab/easycontainer/ec -O ec && sudo ec
+ # wget https://github.com/ingobaab/easycontainer/ec -O ec && sudo ec
+ wget goo.gl/0fWol6 -O ec && sudo ec
 ```
 
 ##Update EasyContainer
