@@ -16,3 +16,12 @@ EasyContainer (ec) is a Command-line tool and also a Webpanel for easy Managemen
 
 ##Copyright:
 GPL
+
+
+| Name  | Port Number | Inbound | Outbound  |
+|:-----:|:-----------:|:-------:|:---------:|
+|SSH    |22           | ✓       |✓          |
+|HTTP    |80           | ✓       |✓          |
+|HTTPS/SSL    |443           | ✓       |✓          |
+|EE Admin    |22222           | ✓       |          |
+|GPG Key Server    |11371           |        |✓          |
