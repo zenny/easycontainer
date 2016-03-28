@@ -23,18 +23,3 @@ ec update
 ##Copyright:
 GPL
 
-```php
-for($i=0; $i<10; $i++) {
- echo '$i'.".) yes.";
-}
-```
-
-
-
-| Name  | Port Number | Inbound | Outbound  |
-|:-----:|:-----------:|:-------:|:---------:|
-|SSH    |22           | ✓       |✓          |
-|HTTP    |80           | ✓       |✓          |
-|HTTPS/SSL    |443           | ✓       |✓          |
-|EE Admin    |22222           | ✓       |          |
-|GPG Key Server    |11371           |        |✓          |
