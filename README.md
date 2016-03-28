@@ -9,13 +9,27 @@ EasyContainer (ec) is a Command-line tool and also a Webpanel for easy Managemen
  - easyengine from RTCamp
  
   
-##Install it easy with:
+##Quickstart
 ```bash
  wget https://github.com/ingobaab/easycontainer/ec -O ec && sudo ec
 ```
 
+##Update EasyContainer
+
+Update EasyContainer to latest version
+```bash
+ec update
+```
+
 ##Copyright:
 GPL
+
+```php
+for($i=0; $i<10; $i++) {
+ echo '$i'.".) yes.";
+}
+```
+
 
 
 | Name  | Port Number | Inbound | Outbound  |
